@@ -5,3 +5,4 @@
 rust
 --cask slack
 --cask microsoft-office
+anaconda
