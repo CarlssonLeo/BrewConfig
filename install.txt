@@ -1,3 +1,5 @@
-visual-studio-code
-Anaconda
-Bitwarden
+--cask visual-studio-code
+--cask google-chrome
+--cask bitwarden
+--cask karabiner-elements
+rust

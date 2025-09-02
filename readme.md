@@ -1,0 +1,1 @@
+to install, make sure homebrew is installed. then run: `xargs brew install < install.txt`
