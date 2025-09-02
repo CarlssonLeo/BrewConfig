@@ -3,3 +3,5 @@
 --cask bitwarden
 --cask karabiner-elements
 rust
+--cask slack
+--cask microsoft-office
