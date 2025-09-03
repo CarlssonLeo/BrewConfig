@@ -7,3 +7,5 @@ rust
 --cask microsoft-office
 --cask miniconda
 uv
+ollama
+--cask obsidian
